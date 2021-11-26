@@ -1,0 +1,80 @@
+.header h1{
+    text-align: center;
+    font-size: 2em;
+    color: white;
+
+}
+.header{
+    background-color: rgb(2, 2, 92);
+top: 0cm;
+bottom: 0cm;
+padding-bottom: 5px;
+}
+.navbar{
+    top: 0cm;
+}
+.log{
+    margin-left: 93%;
+    position: fixed;
+    
+}
+.utama{
+    margin-top: 2em;
+    text-align: center;
+    font-size: 2rem;
+}
+.utama .nama{
+  color: rgb(2, 2, 92);
+}
+.box{
+	margin: 60px auto;
+        width: 700px;
+        padding: 10px;
+        border: 1px solid #ccc;
+    background: white#191919;
+    ;
+    
+
+}
+.tabel1{
+    margin: 50px auto;
+    width: 70%;
+    padding: 10px;
+
+text-align: center;
+transition: 0.25s;
+}
+
+.box .form-control{
+    width: 500px;
+}
+
+.box .submit{
+    text-align: center;
+}
+
+ .delete{
+    margin: 60px auto;
+    width: 500px;
+    padding: 10px;
+    border: 1px solid #ccc;
+background: white#191919;
+
+
+    
+}
+
+.delete .he{
+    background-color: rgb(2, 2, 92);
+    text-align: center;
+    color: white;
+    margin-bottom: 15px;
+}
+
+.delete .but{
+    text-align: right;
+}
+
+
+
+

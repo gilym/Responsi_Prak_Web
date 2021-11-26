@@ -1,0 +1,40 @@
+
+body{
+	background: linear-gradient(to right, #b92b27, #1565c0)
+}
+.box{
+	margin: 200px auto;
+        width: 500px;
+        padding: 10px;
+        border: 1px solid #ccc;
+    background: #191919;
+    ;
+    text-align: center;
+    transition: 0.25s;
+    
+}
+
+.box h2 {
+    color: white;
+    text-transform: uppercase;
+    font-weight: 500;
+	margin-bottom: 30px;
+}
+
+.box .reg{
+	color: white;
+    font-weight: 450;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.box .name{
+    color: white;
+    font-weight: 300;
+	text-align: left;
+
+}
+
+
+ 
+
+
